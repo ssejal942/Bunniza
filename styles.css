@@ -1,0 +1,225 @@
+/*whole title section*/
+.logo {
+    float:left;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+#title {
+    background-image: url("Images/bgimage.jpg");
+     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 730px;
+}
+
+
+/* Navigation bar */
+.navbar {
+    padding-bottom: 2.5rem;
+}
+.navbar-brand {
+    padding-left :1%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2 rem;
+}
+.nav-link {
+    font-family: Arial, Helvetica, sans-serif;
+    color: peachpuff;
+}
+/*title section elements*/
+.welcome {
+    font-family:cursive;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: tomato;
+}
+.tagline {
+    font-family:cursive;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: tomato;
+}
+
+.container-1 {
+    text-align: center;
+    position: relative;
+    top:100px;
+}
+h1 {
+    font-size: 8rem;
+    /*position:relative;
+    right:250px;*/
+    line-height: 1.5;
+    font-family: 'Lobster', cursive;
+    color: powderblue;
+}
+/* whole About section*/
+#About {
+    background-color: white;
+}
+/*about  section elements*/
+.resturant-img {
+   float:right;
+   height:90%;
+   width:70%;
+   margin-top: 8%;
+}
+.about-info {
+    height:100%;
+    width:50%;
+    line-height: 1.5;
+    font-family: monospace;
+    position:absolute;
+    top:25%;
+}
+.info {
+    position:absolute;
+    top:15%;
+}
+h2 {
+     font-family: cursive;
+    color: tomato;
+}
+/*whole notice section*/
+#notice {
+    background-color: gray;
+}   
+.container-2{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    color: white;
+}
+#booking {
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+#private {
+    font-size: 3.5 rem ;
+    font-weight: bold;
+}
+/*whole menu section*/
+#Menu {
+    margin-bottom: 11%;
+}
+/*menu section elements*/
+.specialities {
+    text-align: center;
+    margin-top:11%;
+    font-size: 2rem;
+}
+#our-menu {
+    text-align: center;
+    font-size: 1.5rem;
+    
+}
+.menu-box {
+    border-color: black;
+    border-style: dashed;
+    height: 480px;
+    background-color: whitesmoke;
+    margin-top: 5%;
+    width:25%;
+    padding-top:3%;
+    
+}
+
+.heading {
+    text-align: center; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 5%;
+}
+table{
+    margin-left: 15%;
+    margin-right: 5%;
+    font-family: monospace;
+    
+}
+td {
+    padding: 0 15px;
+    font-family: monospace;
+    font-weight: lighter;
+    font-size: 1 rem;
+}
+
+.menu-img {
+    height:230px;
+    width:450px;
+    margin-left: 40px;
+    margin-top: 20px;
+    
+}
+.img-2 {
+    height:215px;
+}
+/*testimonials*/
+#testimonials{
+     background-image: url("Images/Watercolor_green_leaves_seamless_pattern.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     color:chocolate;
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+.testimonial-text {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5 rem;
+}
+.testimony-heading {
+    color: black;
+    font-size: 2.5rem;
+}
+/*reservation*/
+#Reservation {
+  padding: 7% 10%;
+}
+.Reservation-heading {
+    text-align: center;
+}
+h3 {
+    font-family: monospace;
+    margin-bottom: 5%;
+    text-align: center;
+}
+h4 {
+    text-align: center;
+    margin-bottom: 5%;
+
+}
+.column {
+    width:25%;
+    border-style: dotted;
+    padding: 5% 5%;
+    margin-left: 2%;
+}
+
+form {
+    padding: 5% 5%;
+}
+h2 {
+    padding-bottom: 5%;
+}
+
+/*contact section*/
+#Contact {
+    background-color:black;
+    padding: 7% 15%;
+    text-align: center;
+}
+.open-hours{
+    border-spacing: 5px 1rem; 
+    width:100%;
+    position: relative;
+    right:15%;
+}
+
+/*footer section*/
+#footer {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 1%;
+}
